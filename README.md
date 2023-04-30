@@ -9,8 +9,8 @@ This program requires a C++ compiler that supports the C++11 standard.
 ## How to use
 
 1. Clone or download this repository.
-2. Compile the `infix_to_postfix.cpp` file using a C++ compiler.
-3. Run the `infix_to_postfix` executable
+2. Compile the `main.cpp` file using a C++ compiler.
+3. Run the executable
 
 ## Limitations
 
