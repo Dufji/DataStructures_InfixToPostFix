@@ -17,4 +17,4 @@ This program requires a C++ compiler that supports the C++11 standard.
 This program currently supports only the following operators and operands:
 
 - Operators: `+`, `-`, `*`, `/`, `(`, `)`
-- Operands: Single Uppercase letters (e.g. `A`, `B`, `C`)
+- Operands: Single Uppercase/Lowercase letters (e.g. `A`, `B`, `C`,`a`,`b`,`c`,`d`)
